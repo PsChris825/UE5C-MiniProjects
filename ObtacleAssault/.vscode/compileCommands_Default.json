@@ -1,0 +1,42 @@
+[
+	{
+		"file": "A:\\Unreal Engine\\ObtacleAssault\\Source\\ObtacleAssault\\MovingPlatform.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX64\\x64\\cl.exe",
+			"@A:\\Unreal Engine\\ObtacleAssault\\.vscode\\compileCommands_Default\\ObtacleAssault.249.rsp"
+		],
+		"directory": "A:\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "A:\\Unreal Engine\\ObtacleAssault\\Source\\ObtacleAssault\\MovingPlatform.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX64\\x64\\cl.exe",
+			"@A:\\Unreal Engine\\ObtacleAssault\\.vscode\\compileCommands_Default\\ObtacleAssault.249.rsp"
+		],
+		"directory": "A:\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "A:\\Unreal Engine\\ObtacleAssault\\Source\\ObtacleAssault\\ObtacleAssault.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX64\\x64\\cl.exe",
+			"@A:\\Unreal Engine\\ObtacleAssault\\.vscode\\compileCommands_Default\\ObtacleAssault.249.rsp"
+		],
+		"directory": "A:\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "A:\\Unreal Engine\\ObtacleAssault\\Source\\ObtacleAssault\\ObtacleAssault.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX64\\x64\\cl.exe",
+			"@A:\\Unreal Engine\\ObtacleAssault\\.vscode\\compileCommands_Default\\ObtacleAssault.249.rsp"
+		],
+		"directory": "A:\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "A:\\Unreal Engine\\ObtacleAssault\\Source\\ObtacleAssault\\ObtacleAssault.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX64\\x64\\cl.exe",
+			"@A:\\Unreal Engine\\ObtacleAssault\\.vscode\\compileCommands_Default\\ObtacleAssault.249.rsp"
+		],
+		"directory": "A:\\UE_5.1\\Engine\\Source"
+	}
+]
