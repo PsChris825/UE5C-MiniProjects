@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "a:\\unreal engine\\ue5c-miniprojects\\obstacleassault\\source\\obstacleassault\\obstacleassault.cpp",
+        "ProvidedModule": "",
+        "PCH": "a:\\unreal engine\\ue5c-miniprojects\\obstacleassault\\intermediate\\build\\win64\\obstacleassaulteditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "a:\\unreal engine\\ue5c-miniprojects\\obstacleassault\\intermediate\\build\\win64\\unrealeditor\\development\\obstacleassault\\definitions.obstacleassault.h",
+            "a:\\unreal engine\\ue5c-miniprojects\\obstacleassault\\source\\obstacleassault\\obstacleassault.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

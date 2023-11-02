@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"A:/Unreal Engine/UE5C-MiniProjects/ObstacleAssault/Content/BP_ThirdPersonCharacter.uasset",
+				"A:/Unreal Engine/UE5C-MiniProjects/ObstacleAssault/Content/SCK_Casual01/Blueprints/ThirdPersonCharacter.uasset",
+				"A:/Unreal Engine/UE5C-MiniProjects/ObstacleAssault/Content/Main.umap",
+				"A:/Unreal Engine/UE5C-MiniProjects/UnrealLearningKit/Content/ObstacleAssault.umap",
+				"A:/Unreal Engine/UE5C-MiniProjects/UnrealLearningKit/Content/Main.umap"
+			]
+		}
+	]
+}
