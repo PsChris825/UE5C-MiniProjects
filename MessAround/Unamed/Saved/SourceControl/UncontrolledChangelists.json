@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"A:/Unreal Engine/UE5C-MiniProjects/MessAround/Unamed/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"A:/Unreal Engine/UE5C-MiniProjects/MessAround/Unamed/Content/tester/Main.umap",
+				"A:/Unreal Engine/UE5C-MiniProjects/MessAround/Unamed/Content/tester/Maps/Main.umap",
+				"A:/Unreal Engine/UE5C-MiniProjects/MessAround/Unamed/Content/tester/Maps/Main_BuiltData.uasset"
+			]
+		}
+	]
+}
